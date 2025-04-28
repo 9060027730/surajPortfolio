@@ -1,2 +1,2 @@
-# surajPortfolio
-My personal portfolio website
+# Portfolio
+Simple Portfolio Website
